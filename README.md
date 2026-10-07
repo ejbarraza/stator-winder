@@ -10,6 +10,10 @@ each stator tooth, one tooth at a time.
 > no dimension here is validated against real hardware. Clearances, belt
 > tension, and the wire path all need proving on a physical build. Print
 > structural parts in PETG.
+>
+> **Reference:** inspired by [this stator-winder build video by @oprydai on X](https://x.com/oprydai/status/2106758970379739333)
+> (video © its creator — linked, not redistributed). This model is an original
+> interpretation, not a copy of anyone's design files.
 
 ## How needle winding works
 
